@@ -16,21 +16,17 @@ title: Home
       <a class="button button--primary" href="{{ '/about/' | relative_url }}">About Me</a>
     </div>
   </div>
-  <aside class="hero__card" aria-label="Developer profile highlights">
+  <aside class="hero__card" aria-labelledby="current-focus">
     <span class="status-dot"></span>
-    <p class="card-label">Currently focused on</p>
-    <ul>
+    <p class="card-label" id="current-focus">Currently focused on</p>
+    <ul class="focus-list">
       <li>
-        Building my mum an agentic book writing tool
-        <ul>
-          <li><a href="{{ '/blog/agentic-book-writing-tool/' | relative_url }}">Read about the tool</a></li>
-        </ul>
+        <span>Building my mum an agentic book writing tool</span>
+        <a href="{{ '/blog/agentic-book-writing-tool/' | relative_url }}">Read about the tool</a>
       </li>
       <li>
-        Working with big data for the police
-        <ul>
-          <li><a href="{{ '/blog/big-data-police-work/' | relative_url }}">Read about the work</a></li>
-        </ul>
+        <span>Working with big data for the police</span>
+        <a href="{{ '/blog/big-data-police-work/' | relative_url }}">Read about the work</a>
       </li>
     </ul>
   </aside>
@@ -60,7 +56,7 @@ title: Home
 </section>
 
 <section class="cta-section">
-  <p class="eyebrow">Let&apos;s Connect</p>
+  <p class="eyebrow">Let's Connect</p>
   <h2>Interested in my work?</h2>
-  <p>I have no social media because it rots your brain but if you are interested in my professional work you can contact me through my wonderful employer sourcelabs.nl</p>
+  <p>I have no social media because it rots your brain but if you are interested in my professional work you can contact me through my wonderful employer <a href="https://sourcelabs.nl/">sourcelabs.nl</a></p>
 </section>

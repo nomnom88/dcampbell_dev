@@ -17,7 +17,7 @@
 .hero h1 {
   color: inherit;
   font-size: clamp(2.5rem, 7vw, 5rem);
-  letter-spacing: -0.06em;
+  letter-spacing: 0;
   line-height: 0.95;
   margin: 0 0 1.25rem;
 }
@@ -79,9 +79,33 @@
   padding: 2rem;
 }
 
-.hero__card ul {
-  margin-bottom: 0;
-  padding-left: 1.15rem;
+.focus-list {
+  display: grid;
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.focus-list li {
+  border-top: 1px solid #d8e2dc;
+  display: grid;
+  gap: 0.25rem;
+  padding-top: 1rem;
+}
+
+.focus-list span {
+  color: #17201b;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.focus-list a {
+  color: #0d5f59;
+  font-size: 0.92rem;
+  font-weight: 700;
+  text-decoration-color: rgba(13, 95, 89, 0.3);
+  text-underline-offset: 0.18em;
 }
 
 .status-dot {
@@ -122,7 +146,7 @@
 .cta-section h2 {
   color: #17201b;
   font-size: clamp(1.8rem, 4vw, 3rem);
-  letter-spacing: -0.04em;
+  letter-spacing: 0;
   line-height: 1.05;
   margin-top: 0;
 }
@@ -182,6 +206,13 @@
 
 .post-card a:hover {
   color: #0f766e;
+}
+
+.cta-section a {
+  color: #0d5f59;
+  font-weight: 700;
+  text-decoration-color: rgba(13, 95, 89, 0.3);
+  text-underline-offset: 0.18em;
 }
 
 .cta-section {

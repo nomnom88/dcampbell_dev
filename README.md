@@ -16,7 +16,7 @@ Each post starts with front matter:
 ---
 layout: post
 title: "Post Title"
-date: 2026-05-18 00:00:00 -0400
+date: 2026-05-18 00:00:00 +0200
 categories: blog
 ---
 
