@@ -1,0 +1,26 @@
+title: Duncan Campbell
+description: Personal blog by Duncan Campbell.
+url: "https://dcampbell.dev"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: Duncan Campbell
+
+minima:
+  skin: auto
+
+header_pages:
+  - about.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .opencode/
+  - openspec/

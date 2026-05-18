@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+.idea/
+
+# Local assistant/tooling files, not part of the public site.
+.opencode/
+openspec/
