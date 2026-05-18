@@ -146,6 +146,11 @@ a:hover {
   border-top: 1px solid var(--site-border);
 }
 
+.footer-description {
+  color: var(--site-muted);
+  margin: 0;
+}
+
 @media screen and (max-width: 600px) {
   .site-nav {
     background: var(--site-surface);
