@@ -1,7 +1,7 @@
 title: Duncan Campbell
 description: Personal blog by Duncan Campbell.
-url: "https://nomnom88.github.io"
-baseurl: "/dcampbell_dev"
+url: "https://dcampbell.dev"
+baseurl: ""
 
 theme: minima
 
