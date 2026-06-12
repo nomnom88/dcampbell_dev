@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Working With Big Data for the Police"
-date: 2026-05-18 00:01:00 +0200
+title: "Retro Game Hackathon"
+date: 2026-05-29 00:01:00 +0200
 categories: blog
-permalink: /blog/big-data-police-work/
+permalink: /blog/retro-game-hackathon/
 ---
 
 Today it was my go to lead the monthly Sourcelabs meetup day.
