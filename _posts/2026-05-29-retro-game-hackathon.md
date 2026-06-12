@@ -27,7 +27,7 @@ On the day itself I revealed what the day was going to be about:
 Growing up in the 90's and 00's I used to play a lot of video games.
 Command & Conquer, Age of Empires, Simon the Sorcerer, Jazz Jackrabbit, Doom, Quake, Duke Nukem, Turok... the list goes on and on.
 
-![Simon the Sorcerer](images/sts.png "Simon the Sorcerer")
+![Simon the Sorcerer](/assets/images/retro-game-hackathon/sts.png "Simon the Sorcerer")
 *Simon the Sorcerer - one of my favourites*
 
 
@@ -66,7 +66,7 @@ I have done a lot of these training days over the years (some of my training sub
 
 
 
-![Rotterdam](images/game-1.png "Rotterdam")
+![Rotterdam](/assets/images/retro-game-hackathon/game-1.png "Rotterdam")
 *Learn about Rotterdam, don't get stabbed*
 
 
@@ -92,7 +92,7 @@ A few examples:
 * and many more
 
 
-![SlabsQuest](images/game-2.png "SlabsQuest")
+![SlabsQuest](/assets/images/retro-game-hackathon/game-2.png "SlabsQuest")
 *A screenshot from after the hackathon of the fully playable game*
 
 I somewhat regretted making it a competition since so many of these games were phenomenally impressive.
@@ -103,5 +103,5 @@ I announced the victor, Elena, who had created a truly enchanting Alice in Wonde
 All in all I really enjoyed showing people that today with the combintaion of cold calculating robotic agentic AI and their own warm impossible-to-truly-replace human creativity they could achieve much more than they perhaps thought they could and they could truly enjoy it.
 
 
-![Alice in Wonderland](images/game-3.png "Alice in Wonderland")
+![Alice in Wonderland](/assets/images/retro-game-hackathon/game-3.png "Alice in Wonderland")
 *The winning game's first level*
