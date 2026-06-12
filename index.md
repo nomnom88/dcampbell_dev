@@ -58,5 +58,5 @@ title: Home
 <section class="cta-section">
   <p class="eyebrow">Let's Connect</p>
   <h2>Interested in my work?</h2>
-  <p>I have no social media because it rots your brain but if you are interested in my professional work you can contact me through my wonderful employer <a href="https://sourcelabs.nl/">sourcelabs.nl</a></p>
+  <p>I have no social media because it rots your brain but if you are interested in my professional work you can contact me through my wonderful employer <a href="https://sourcelabs.nl/">sourcelabs.nl</a></p> or through <a href="https://www.linkedin.com/in/duncan-campbell-b4255a156/">LinkedIn<a>
 </section>
